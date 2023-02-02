@@ -29,3 +29,4 @@ Ee i ee i oh!
 
 test of feature branch //first commit
 adding second commit //Set remote origin for my branch on my github and it works!))
+Merge done!
