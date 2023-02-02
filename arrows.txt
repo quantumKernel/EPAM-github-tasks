@@ -2,3 +2,5 @@ The ship glides gently on the waves
 As day turns int night
 One thousand burning arrows
 Fill the starlit sky
+
+Test of collisions and resolving them
